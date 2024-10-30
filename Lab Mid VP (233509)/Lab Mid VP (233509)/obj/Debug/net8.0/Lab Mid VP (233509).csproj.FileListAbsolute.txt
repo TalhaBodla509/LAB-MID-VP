@@ -1,0 +1,14 @@
+C:\Users\abuba\source\repos\Lab Mid VP (233509)\Lab Mid VP (233509)\obj\Debug\net8.0\Lab Mid VP (233509).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuba\source\repos\Lab Mid VP (233509)\Lab Mid VP (233509)\obj\Debug\net8.0\Lab Mid VP (233509).AssemblyInfoInputs.cache
+C:\Users\abuba\source\repos\Lab Mid VP (233509)\Lab Mid VP (233509)\obj\Debug\net8.0\Lab Mid VP (233509).AssemblyInfo.cs
+C:\Users\abuba\source\repos\Lab Mid VP (233509)\Lab Mid VP (233509)\obj\Debug\net8.0\Lab Mid VP (233509).csproj.CoreCompileInputs.cache
+C:\Users\abuba\source\repos\Lab Mid VP (233509)\Lab Mid VP (233509)\bin\Debug\net8.0\Lab Mid VP (233509).exe
+C:\Users\abuba\source\repos\Lab Mid VP (233509)\Lab Mid VP (233509)\bin\Debug\net8.0\Lab Mid VP (233509).deps.json
+C:\Users\abuba\source\repos\Lab Mid VP (233509)\Lab Mid VP (233509)\bin\Debug\net8.0\Lab Mid VP (233509).runtimeconfig.json
+C:\Users\abuba\source\repos\Lab Mid VP (233509)\Lab Mid VP (233509)\bin\Debug\net8.0\Lab Mid VP (233509).dll
+C:\Users\abuba\source\repos\Lab Mid VP (233509)\Lab Mid VP (233509)\bin\Debug\net8.0\Lab Mid VP (233509).pdb
+C:\Users\abuba\source\repos\Lab Mid VP (233509)\Lab Mid VP (233509)\obj\Debug\net8.0\Lab Mid VP (233509).dll
+C:\Users\abuba\source\repos\Lab Mid VP (233509)\Lab Mid VP (233509)\obj\Debug\net8.0\refint\Lab Mid VP (233509).dll
+C:\Users\abuba\source\repos\Lab Mid VP (233509)\Lab Mid VP (233509)\obj\Debug\net8.0\Lab Mid VP (233509).pdb
+C:\Users\abuba\source\repos\Lab Mid VP (233509)\Lab Mid VP (233509)\obj\Debug\net8.0\Lab Mid VP (233509).genruntimeconfig.cache
+C:\Users\abuba\source\repos\Lab Mid VP (233509)\Lab Mid VP (233509)\obj\Debug\net8.0\ref\Lab Mid VP (233509).dll
